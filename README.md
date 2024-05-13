@@ -14,6 +14,6 @@ Humanoid robot
   
 - **Jetson Nano**: Main processing unit for real-time control.
   
-- **MAX485**: RS-485 transceiver for communication.
+- **MAX485**: RS-485 transceiver for communication for Futuba motors.
   
-- **U2D2 Motor Drivers**: Converts serial commands for servo control.
+- **U2D2 Motor Drivers**: Converts serial commands for Dynamixel servo control.
